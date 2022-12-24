@@ -1,0 +1,7 @@
+{
+    "watch": [
+    "src"
+],
+"exit": "ts",
+"exec": "ts-node ./src/index.ts"
+}
